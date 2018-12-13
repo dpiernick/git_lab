@@ -3,3 +3,6 @@ Hello
 This is a git lab
 I love you
 Adding a new line AGAIN at the end
+Hello world
+Hello QL
+Hello friends
